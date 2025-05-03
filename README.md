@@ -44,12 +44,12 @@
   <br>
   <div>
     <strong>English:</strong> 
-    - Building web apps with Django/React<br>
+    - Building web apps with Fastapi/React<br>
     - Learning DevOps (Docker, CI/CD)<br>
     - Leading tech workshops & courses at University Club<br>
     <br>
     <strong>Español:</strong>
-    - Desarrollo de aplicaciones con Django/React<br>
+    - Desarrollo de aplicaciones con Fastapi/React<br>
     - Aprendiendo DevOps (Docker, CI/CD)<br>
     - Liderando talleres técnicos y cursos en el Club Universitario
   </div>
