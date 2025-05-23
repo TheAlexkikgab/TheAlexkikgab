@@ -30,8 +30,8 @@
     <img src="https://img.shields.io/badge/CLUB_CRECIMIENTO_TECNOLÓGICO-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Club Badge">
   </a>
   <p>
-    <img src="https://img.shields.io/badge/President-2024--Present-00599C?style=flat&logo=star" alt="President">
-    <img src="https://img.shields.io/badge/Presidente-2024--Actualidad-00599C?style=flat&logo=star" alt="Presidente">
+    <img src="https://img.shields.io/badge/President-12/2024--Present-00599C?style=flat&logo=star" alt="President">
+    <img src="https://img.shields.io/badge/Presidente-12/2024--Actualidad-00599C?style=flat&logo=star" alt="Presidente">
   </p>
   <p>
     <em>Leading tech workshops and projects | Liderando talleres y proyectos tecnológicos</em>
